@@ -1,0 +1,17 @@
+---
+title: "Reproducible Research with R-labs"
+listing:
+  contents: R-labs 
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+::: {.content-block} 
+
+
+:::

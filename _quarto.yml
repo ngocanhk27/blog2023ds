@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "DEPOCEN Learning Corner"
+  image: "logodpc.png"
+  page-footer:
+    left: "Blog made with 💜 and [Quarto](https://quarto.org/) for DEPOCENORS"
+  navbar:
+    right:
+      - text: "About Us"
+        href: about.qmd
+      - text: "Data Science Blog" 
+        href: blog.qmd
+      - text: "Our Portfolio" 
+        href: portfolio.qmd
+      - text: "R-labs"  
+        href: R-Labs.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+
+format:
+  html:
+    theme: Spacelab
+    css: styles.css
+freeze: true 
+editor: visual
+
