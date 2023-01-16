@@ -1,5 +1,5 @@
 ---
-title: "Reproducible Research with R-labs"
+title: "R Labs"
 listing:
   contents: R-labs 
   sort: "date desc"
@@ -11,7 +11,5 @@ page-layout: full
 title-block-banner: true
 ---
 
-::: {.content-block} 
-
-
+::: content-block
 :::

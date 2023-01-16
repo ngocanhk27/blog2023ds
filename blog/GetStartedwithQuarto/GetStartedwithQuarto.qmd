@@ -1,0 +1,17 @@
+---
+title: "Get Started with Quarto"
+date: "2023-01-12"
+format: 
+  html:
+    css: styles.css
+categories: [git, github]
+editor: visual
+
+---
+
+
+## 
+https://rstudio-conf-2022.github.io/get-started-quarto/ 
+##
+
+https://www.idlewyldanalytics.com/about-these-course-notes.html  

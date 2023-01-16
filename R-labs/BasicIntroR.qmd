@@ -1,0 +1,13 @@
+---
+title: "Basic Introduction to R"
+date: "2023-01-12"
+format: 
+  html:
+    css: styles.css
+categories: [Data simualtion, github]
+editor: visual
+---
+
+## R and Rstudio
+
+We are going simulation some data for illustration

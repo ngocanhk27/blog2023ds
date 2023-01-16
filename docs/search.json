@@ -1,30 +1,58 @@
 [
   {
+    "objectID": "blog/GetStartedwithQuarto/GetStartedwithQuarto.html",
+    "href": "blog/GetStartedwithQuarto/GetStartedwithQuarto.html",
+    "title": "Get Started with Quarto",
+    "section": "",
+    "text": "https://rstudio-conf-2022.github.io/get-started-quarto/ ##\nhttps://www.idlewyldanalytics.com/about-these-course-notes.html"
+  },
+  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Another Blog on Data Science and Economics",
     "section": "",
-    "text": "No matching items"
+    "text": "Get Started with Quarto\n\n\n\n\n\n\n\ngit\n\n\ngithub\n\n\n\n\n\n\n\n\n\n\n\nJan 12, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Where talents exel",
     "section": "",
-    "text": "No matching items"
+    "text": "Data simualtion\n\n\ngithub\n\n\n\n\n\n\n\n\n\n\n\nJan 12, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "portfolio/BasicIntroR.html",
+    "href": "portfolio/BasicIntroR.html",
+    "title": "Basic Introduction to R",
+    "section": "",
+    "text": "We are going simulation some data for illustration"
   },
   {
     "objectID": "portfolio.html",
     "href": "portfolio.html",
     "title": "Our Projects",
     "section": "",
-    "text": "No matching items"
+    "text": "Basic Introduction to R\n\n\n\n\n\n\n\nData simualtion\n\n\ngithub\n\n\n\n\n\n\n\n\n\n\n\nJan 12, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "R-Labs.html",
-    "href": "R-Labs.html",
-    "title": "Reproducible Research with R-labs",
+    "objectID": "R-labs.html",
+    "href": "R-labs.html",
+    "title": "R Labs",
     "section": "",
-    "text": "No matching items"
+    "text": "Basic Introduction to R\n\n\n\n\n\n\n\nData simualtion\n\n\ngithub\n\n\n\n\n\n\n\n\n\n\n\nJan 12, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "R-labs/BasicIntroR.html",
+    "href": "R-labs/BasicIntroR.html",
+    "title": "Basic Introduction to R",
+    "section": "",
+    "text": "We are going simulation some data for illustration"
+  },
+  {
+    "objectID": "posts/BasicIntroR.html",
+    "href": "posts/BasicIntroR.html",
+    "title": "Basic Introduction to R",
+    "section": "",
+    "text": "We are going simulation some data for illustration"
   }
 ]

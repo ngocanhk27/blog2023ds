@@ -1,18 +1,26 @@
 [
   {
     "listing": "/blog.html",
-    "items": []
+    "items": [
+      "/blog/GetStartedwithQuarto/GetStartedwithQuarto.html"
+    ]
   },
   {
     "listing": "/index.html",
-    "items": []
+    "items": [
+      "/posts/BasicIntroR.html"
+    ]
   },
   {
     "listing": "/portfolio.html",
-    "items": []
+    "items": [
+      "/portfolio/BasicIntroR.html"
+    ]
   },
   {
     "listing": "/R-Labs.html",
-    "items": []
+    "items": [
+      "/R-labs/BasicIntroR.html"
+    ]
   }
 ]

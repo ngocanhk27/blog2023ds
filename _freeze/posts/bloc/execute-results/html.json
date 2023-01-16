@@ -1,0 +1,16 @@
+{
+  "hash": "2d777f3489ff54ed75713aa1acb0f3de",
+  "result": {
+    "markdown": "---\ntitle: \"Untitled\"\nauthor: \"Nguyen Ngoc Anh\"\ndate: '2023-01-15'\noutput: html_document\n---\n\n\n\n\n## R\n\n\n::: {.cell}\n- Opening and saving an R Notebook\n- Basic layout in R Markdown\n:::\n",
+    "supporting": [
+      "bloc_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

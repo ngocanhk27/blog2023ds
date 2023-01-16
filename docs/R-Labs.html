@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>DEPOCEN Learning Corner - Reproducible Research with R-labs</title>
+<title>DEPOCEN Learning Corner - R Labs</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -70,9 +70,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -121,7 +121,7 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./portfolio.html">Our Portfolio</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./R-Labs.html" aria-current="page">R-labs</a>
+    <a class="nav-link" href="./R-Labs.html">R-labs</a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/"><i class="bi bi-github" role="img">
@@ -143,7 +143,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page-left">
-      <h1 class="title">Reproducible Research with R-labs</h1>
+      <h1 class="title">R Labs</h1>
                       </div>
   </div>
     
@@ -160,7 +160,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Data simualtion">Data simualtion <span class="quarto-category-count">(1)</span></div><div class="category" data-category="github">github <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -176,7 +176,38 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Data simualtion,github" data-listing-date-sort="1673456400000" data-listing-file-modified-sort="1673811793973" data-listing-reading-time-sort="0.04">
+<div class="body">
+<a href="./R-labs/BasicIntroR.html">
+<h3 class="no-anchor listing-title">
+Basic Introduction to R
+</h3>
+<div class="listing-subtitle">
 
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Data simualtion'); return false;">
+Data simualtion
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('github'); return false;">
+github
+</div>
+</div>
+<a href="./R-labs/BasicIntroR.html">
+<div class="listing-description">
+We are going simulation some data for illustration
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./R-labs/BasicIntroR.html">
+<div class="listing-date">
+Jan 12, 2023
+</div>
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
